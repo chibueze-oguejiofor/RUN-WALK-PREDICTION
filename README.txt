@@ -1,0 +1,1 @@
+This notebook shows the code used for predicting the whether victor is running or walking from his gyrometer
